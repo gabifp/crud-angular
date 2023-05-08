@@ -1,0 +1,26 @@
+.sidenav {
+    background-color: var(--color-1);
+    width: 150px;
+    height: 100vh;
+}
+
+.sidenav a {
+    color: var(--color-5);
+}
+
+.sidenav a:hover {
+    background-color: var(--color-5);
+    color: var(--color-1);
+    font-weight: bold;
+}
+
+
+.sidenav i {
+    padding: 2px;
+    margin: 3px;
+}
+
+.content {
+    padding: 16px;
+    background: #f5f5f5;
+}
