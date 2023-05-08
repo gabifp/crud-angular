@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Notebook Macbook Pro",
+      "price": 21000.89
+    },
+    {
+      "id": 3,
+      "name": "Samsung F20+",
+      "price": 2000.89
+    },
+    {
+      "name": "Lapis Preto",
+      "price": "2.50",
+      "id": 4
+    },
+    {
+      "name": "Mouse Logitech",
+      "price": "75.90",
+      "id": 5
+    },
+    {
+      "name": "Teclado Logitech",
+      "price": "247.8",
+      "id": 6
+    },
+    {
+      "name": "Tela Samsung",
+      "price": "2590.99",
+      "id": 7
+    },
+    {
+      "name": "Iphone",
+      "price": "5699.99",
+      "id": 8
+    },
+    {
+      "name": "Caneta BIC Preta",
+      "price": "2.99",
+      "id": 9
+    }
+  ]
+}
