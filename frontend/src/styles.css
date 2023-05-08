@@ -1,0 +1,38 @@
+/* You can add global styles to this file, and also import other style files */
+
+:root {
+    --color-0: #000000;
+    --color-1: #302f4e;
+    --color-2: #ee8968;
+    --color-3: #fad994;
+    --color-4: #c6464f;
+    --color-5: #ffffff;
+    --color-6: #673ab7;
+}
+
+html, body { height: 100%; }
+body { 
+    margin: 0; 
+    font-family: Roboto, "Helvetica Neue", sans-serif; 
+    background: #f5f5f5;
+}
+
+.red {
+    color: #e35e6b;
+}
+
+.v-middle {
+    vertical-align: middle;
+}
+
+.msg-success {
+    background-color: #1ea53e;
+    color: #ffffff;
+    font-weight: 500;
+}
+
+.msg-error {
+    background-color: #e35e6b;
+    color: #ffffff;
+    font-weight: 500;
+}

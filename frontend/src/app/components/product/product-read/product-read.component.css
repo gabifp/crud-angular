@@ -1,0 +1,19 @@
+.full-width-table {
+    width: 100%;
+  }
+  
+.edit {
+  margin-right: 15px;
+}  
+
+.edit > i:active {
+  color: var(--color-0);
+}
+
+.delete > i {
+  color: var(--color-4);
+}
+
+.delete > i:active {
+  color: var(--color-0);
+}
